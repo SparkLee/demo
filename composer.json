@@ -1,7 +1,7 @@
 {
-    "name": "sparklee/php-tdd-scaffold",
+    "name": "sparklee/demo",
     "type": "project",
-    "description": "PHP TDD（测试驱动开发）脚手架",
+    "description": "各种组件，类库的演示示例",
     "keywords": [
         "TDD",
         "PHPUnit",
