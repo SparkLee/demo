@@ -1,0 +1,1 @@
+[下载地址](https://github.com/FortAwesome/Font-Awesome/blob/master/webfonts/fa-solid-900.woff2)
